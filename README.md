@@ -2,7 +2,7 @@
 
 Product manager who builds. I take AI products from the first PRD to a live pilot, and I instrument them so the metrics say whether they worked.
 
-Currently finishing an **MS in Business Analytics at UC San Diego (Rady)** and leading an AI student-success product for 183 MSBA students: a guardrailed AI assistant that routes every question to the right source. Open to **2026 PM roles**.
+Currently finishing an **MS in Business Analytics at UC San Diego (Rady)** and leading an AI student-success product for 183 MSBA students. Open to **2026 PM roles**.
 
 #### 🔍 Featured: [Loupe](https://loupe.shankard.com)
 
@@ -12,7 +12,7 @@ User analytics for GenAI assistants, built as an end-to-end PM case study on **3
 
 #### What I've shipped
 
-- **UC San Diego, Rady (product lead):** own an AI student-success product end to end for 183 MSBA students, leading a 4-person team from PRD to live pilot. Made the business case (5 tools into one, ~$64K/yr saved, ~4,000 advising questions a year deflected), shaped a guardrailed AI assistant whose orchestrator routes each question to an indexed RAG knowledge base or to search-and-fetch of specific sources, and set adoption targets of 85% monthly and 65% weekly active use.
+- **UC San Diego, Rady:** lead a 4-person team taking an AI student-success product from conception to live pilot for 183 MSBA students. It consolidates 5 tools into one, saves ~$64K/yr, and deflects ~4,000 advising questions a year to a guardrailed AI assistant that routes each question to RAG or targeted search.
 - **Kevali, first product hire:** recovered 21% of abandoned carts and grew conversion 15% on a $186K-a-quarter D2C storefront.
 - **Tap Invest:** launched a recommender that lifted engagement 31% across $12M AUM, and cut underwriting from 3 days to 1.
 - **BCG:** built the route-optimization and demand-forecasting models behind a $50M ride-sharing client's plan to electrify half its fleet.
