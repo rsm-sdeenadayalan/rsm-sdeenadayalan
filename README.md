@@ -12,7 +12,7 @@ User analytics for GenAI assistants, built as an end-to-end PM case study on **3
 
 #### What I've shipped
 
-- **UC San Diego, Rady:** lead a 4-person team building an AI student-success product from PRD to live pilot. Its core is a guardrailed AI assistant with an orchestrator that decides, per question, whether to answer from an indexed RAG knowledge base or to compile an answer by searching and fetching specific sources. It consolidates 5 tools into one; the business case models ~$64K/yr in savings and ~4,000 advising questions a year deflected to the assistant.
+- **UC San Diego, Rady (product lead):** own an AI student-success product end to end for 183 MSBA students, leading a 4-person team from PRD to live pilot. Made the business case (5 tools into one, ~$64K/yr saved, ~4,000 advising questions a year deflected), shaped a guardrailed AI assistant whose orchestrator routes each question to an indexed RAG knowledge base or to search-and-fetch of specific sources, and set adoption targets of 85% monthly and 65% weekly active use.
 - **Kevali, first product hire:** recovered 21% of abandoned carts and grew conversion 15% on a $186K-a-quarter D2C storefront.
 - **Tap Invest:** launched a recommender that lifted engagement 31% across $12M AUM, and cut underwriting from 3 days to 1.
 - **BCG:** built the route-optimization and demand-forecasting models behind a $50M ride-sharing client's plan to electrify half its fleet.
