@@ -2,7 +2,7 @@
 
 Product manager who builds. I take AI products from the first PRD to a live pilot, and I instrument them so the metrics say whether they worked.
 
-Currently finishing an **MS in Business Analytics at UC San Diego (Rady)** and leading product on Thrive, 3 AI products for 183 MSBA students. Open to **2027 PM roles**.
+Currently finishing an **MS in Business Analytics at UC San Diego (Rady)** and leading product on Thrive, 3 AI products for 183 MSBA students.
 
 #### 🔍 Featured: [Loupe](https://loupe.shankard.com)
 
