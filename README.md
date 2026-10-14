@@ -2,7 +2,7 @@
 
 Product manager who builds. I take AI products from the first PRD to a live pilot, and I instrument them so the metrics say whether they worked.
 
-Currently finishing an **MS in Business Analytics at UC San Diego (Rady)** and leading product on 3 AI products for 183 MSBA students. Open to **2027 PM roles**.
+Currently finishing an **MS in Business Analytics at UC San Diego (Rady)** and leading product on Thrive, 3 AI products for 183 MSBA students. Open to **2027 PM roles**.
 
 #### 🔍 Featured: [Loupe](https://loupe.shankard.com)
 
@@ -12,7 +12,7 @@ User analytics for GenAI assistants, built as an end-to-end PM case study on **3
 
 #### What I've shipped
 
-- **UC San Diego, Rady:** launched 3 AI products replacing 5 student tools for 183 MSBA students, live in production within 7 weeks with a 4-person team. Shipped a cited-only chatbot with guardrails validated on a 94-question eval bench, then raised its accuracy from 17/27 to 25/27 known-answer questions. The case to retire 3 paid tools projects ~$64K/yr saved.
+- **UC San Diego, Rady:** launched Thrive, 3 AI products replacing 5 student tools for 183 MSBA students, live in production within 7 weeks with a 4-person team. Shipped a cited-only chatbot with guardrails validated on a 94-question eval bench, then raised its accuracy from 17/27 to 25/27 known-answer questions. The case to retire 3 paid tools projects ~$64K/yr saved.
 - **Kevali, first product hire:** recovered 21% of abandoned carts and grew conversion 15% on a $186K-a-quarter D2C storefront.
 - **Tap Invest:** launched a recommender that lifted engagement 31% across $12M AUM, and cut underwriting from 3 days to 1.
 - **BCG:** built the route-optimization and demand-forecasting models behind a $50M ride-sharing client's plan to electrify half its fleet.
