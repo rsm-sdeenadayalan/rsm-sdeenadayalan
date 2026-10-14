@@ -23,4 +23,4 @@ Product strategy · roadmapping · PRDs · experimentation & A/B testing · Pyth
 
 #### Find me
 
-🌐 [shankard.com](https://shankard.com) · 💼 [LinkedIn](https://www.linkedin.com/in/shankar-d/) · 📄 [Resume](https://shankard.com/resume.pdf) · ✉️ sdeenadayalan@ucsd.edu
+🌐 [shankard.com](https://shankard.com) · 💼 [LinkedIn](https://www.linkedin.com/in/shankar-d/) · 📄 [Resume](https://shankard.com/resume.pdf) · ✉️ [shankar.deenadayalan@outlook.com](mailto:shankar.deenadayalan@outlook.com)
